@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89481fca-40eb-46e8-b76e-5763515a1961" name="Default" comment="" />
+    <list default="true" id="89481fca-40eb-46e8-b76e-5763515a1961" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_error/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/_error/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/_app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/_error.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/5298d3c9-a077-4a6a-ad4b-8487f70c8cae/page/post.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/commons/main-2fbd3d97282a0b010c3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/commons/main-fc4765b0c517bb10ccf6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/commons/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/_next/static/commons/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/commons/manifest.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/out/_next/static/commons/manifest.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/post.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -57,7 +78,22 @@
         <entry file="file://$PROJECT_DIR$/pages/post.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Post.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#1#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +116,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -88,6 +127,7 @@
         <option value="$PROJECT_DIR$/next.config.js" />
         <option value="$PROJECT_DIR$/pages/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/components/Post.js" />
         <option value="$PROJECT_DIR$/pages/post.js" />
       </list>
     </option>
@@ -108,17 +148,19 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="776" />
     <option name="y" value="217" />
     <option name="width" value="1105" />
     <option name="height" value="713" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +182,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,20 +215,22 @@
       <updated>1530947814238</updated>
       <workItem from="1530947815454" duration="8282000" />
       <workItem from="1531102997125" duration="3734000" />
+      <workItem from="1531107935251" duration="8314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12016000" />
+    <option name="totallyTimeSpent" value="20330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="776" y="217" width="1105" height="713" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2093664" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -209,7 +252,66 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Post.js</url>
+          <properties lambdaOrdinal="-1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -293,10 +395,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/components/Post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/post.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
