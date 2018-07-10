@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Head from 'next/head'
 import axios from 'axios'
 import Header from '../components/Header'
 
@@ -9,6 +10,9 @@ const posts = [
 ]
 const Index = (props) => (
 	<div>
+        <Head>
+            <title>主页</title>
+        </Head>
 		<Header></Header>
 		Hello Next.js
         <ul>

@@ -1,4 +1,5 @@
-import {Component} from 'react'
+import React, {Component} from 'react'
+import Head from 'next/head'
 import axios from 'axios'
 class Post extends Component {
     // getInitialProps 只适用于 pages
@@ -21,7 +22,7 @@ class Post extends Component {
         if (!props.show) {
             let {id } = props.router.query;
             console.log(props.router);
-            debugger
+            // debugger
             if (!id) {
                 if (typeof location!== 'undefined') {
                     const qur = location.search;
@@ -49,6 +50,9 @@ class Post extends Component {
         console.log('rrrrrender', show);
         if (!show) return null;
         return <div>
+            <Head>
+                <title>{show.name}</title>
+            </Head>
             <h1>{show.name}</h1>
             <p>{show.summary.replace(/<[/]?p>/g, '')}</p>
             <img src={show.image.medium}/>
